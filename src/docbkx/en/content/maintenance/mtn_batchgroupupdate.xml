@@ -5,7 +5,8 @@
     xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xl="http://www.w3.org/1999/xlink"
     xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xhtml="http://www.w3.org/1999/xhtml"
     xmlns:svg="http://www.w3.org/2000/svg" xmlns:mth="http://www.w3.org/1998/Math/MathML"
-    xmlns:db="http://docbook.org/ns/docbook">
+    xmlns:db="http://docbook.org/ns/docbook"
+    xml:id="edit_multiple_object_groups">
     <?oxy_comment_start author="cecilia" timestamp="20160531T151901+0200" comment="Feature used by implmenter and admin" flag="done"?>
     <title>Edit multiple object groups <?oxy_comment_start author="cecilia" timestamp="20160626T173553+0200" comment="Before release:
 Verify that this topic is linked in to book"?>at<?oxy_comment_end?>
@@ -95,9 +96,8 @@ https://github.com/dhis2/maintenance-app/issues/168
         <title>Edit multiple objects in an object group</title>
         <orderedlist>
             <listitem>
-                <para>Click <emphasis role="bold">Apps</emphasis> > <emphasis role="bold"
-                        >Maintenance</emphasis> > <emphasis role="bold">Metadata group
-                        editor</emphasis>.</para>
+                <para>Open the <emphasis role="bold">Maintenance</emphasis> app and click <emphasis
+                        role="bold">Metadata group editor</emphasis>.</para>
             </listitem>
             <listitem>
                 <para>Click <emphasis role="bold">Manage items in group</emphasis>.</para>
@@ -125,9 +125,8 @@ https://github.com/dhis2/maintenance-app/issues/168
         <title>Edit an object in multiple object groups</title>
         <orderedlist>
             <listitem>
-                <para>Click <emphasis role="bold">Apps</emphasis> > <emphasis role="bold"
-                        >Maintenance</emphasis> > <emphasis role="bold">Metadata group
-                        editor</emphasis>.</para>
+                <para>Open the <emphasis role="bold">Maintenance</emphasis> app and click <emphasis
+                        role="bold">Metadata group editor</emphasis>.</para>
             </listitem>
             <listitem>
                 <para>Click <emphasis role="bold">Manage groups for item</emphasis>.</para>
